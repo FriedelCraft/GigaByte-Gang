@@ -14,6 +14,7 @@ Extra Features of the app:
 2) There is an interactive window where you can ask the driver to turn on or off the air conditioner, or inform him if the transport is dirty.
 3) The app will use Google maps to tell you more about the stop you are exiting, i.e. , it will tell you about the nearby stores like restaurant, grocery shop, bank,etc.
 4) You can share your live location to one of your loved ones, it will automatically stop once you reach your destination.
+5) Ticket/Wallet: There is a option to purchase ticket for your transport directly from your phone using upi/card payments. If you travel a lot, you can buy a create a wallet where you can add money and whenever you want a ticket your moeny is directly deducted from wallet which is an easier method.(Also the wallet charges less money than ticket).
 
 Bonus Features(idk how it will work but sounds good)
 1) The app will take data and tell you about more populated stops, helpful for a tourist.
